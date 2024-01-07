@@ -41,9 +41,7 @@ P1 and P2.
 
 The result of decomposing into a Taylor series:
 
-          2a^2 + 5ab + 5b^2
- L = 1 + ------------------  + O^4(a,b).     (1)
-                30 
+ L = 1 + (2a^2 + 5ab + 5b^2)/30 + O^4(a,b).     (1)
  
 If we have 4 consecutive points on the curve (P0, P1, P2, P3,
 we will replace the coordinates on the plane, translating the point
