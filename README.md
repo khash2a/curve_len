@@ -10,7 +10,7 @@ curve_len.py   - Python code
 The length of a smooth plane curve given parametrically x=x(t), y=y(t) 
 for a <= t <= b can be found using the integral
 
-$ s = \int_a^b \sqrt{x'(t)^2 + y'(t)^2}\, dt.$
+ s = \int_a^b \sqrt{x'(t)^2 + y'(t)^2}\, dt.
 
 If the integral cannot be found analytically, it can be found
 numerically. But for this, the functions x(t), y(t) must be
