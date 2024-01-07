@@ -36,8 +36,9 @@ consider the parameters a and b are small. Let's find
 approximate formulas for the length of its arc between the points
 P1 and P2.
 
+\[
  L = \int_0^1 \sqrt{1+y'(x)}dx
-
+\]
 
 The result of decomposing into a Taylor series:
 
