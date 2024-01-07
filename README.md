@@ -77,11 +77,18 @@ acc_3: the accuracy of the length of the polyline arc for a quarter of astroid,
 acc_4: the accuracy of our approximation.
 
    N     acc_1       acc_2      acc_3       acc_4
+   
    4     1.8e-2     8.3e-3     1.6e-2      9.5e-3
+   
    5     1.0e-2     1.5e-3     1.1e-2      3.5e-3
+   
    6     6.5e-3     2.3e-4     7.7e-3      2.1e-3
+   
    8     3.3e-3     3.2e-5     4.7e-3      1.1e-3
+   
   10     2.0e-3     2.7e-5     3.3e-3      7.6e-4
+  
   15     8.2e-4     8.0e-6     1.7e-3      3.9e-4
+  
   20     4.5e-4     2.5e-6     1.1e-3      2.5e-4
 
