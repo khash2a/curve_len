@@ -2,6 +2,7 @@
 Length of the curve pass thru points (x[0],y[0]), (x[1],y[1]), (x[2],y[2]), ... 
 
 curve_len.cpp  - C++ code
+
 curve_len.py   - Python code
 
 \section{Introduction}
